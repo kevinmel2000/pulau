@@ -3,6 +3,7 @@ package com.andylibrian.pulau.resources;
 import com.andylibrian.pulau.core.Provinsi;
 import com.andylibrian.pulau.core.ProvinsiRepository;
 import com.codahale.metrics.annotation.Timed;
+import com.andylibrian.pulau.core.ResourceNotFoundException;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -11,7 +12,9 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
+import javax.ws.rs.WebApplicationException;
 import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response.Status;
 
 @Path("/provinsi")
 @Produces(MediaType.APPLICATION_JSON)
@@ -40,9 +43,13 @@ public class ProvinsiResource {
     }
 
     @GET @Path("/{id}")
-    public Map<String, Object> findSingle(@PathParam("id") String id) {
+    public Map<String, Object> findSingle(@PathParam("id") String id) throws ResourceNotFoundException {
         
         Provinsi provinsi = provinsiMap.get(id);
+        
+        if (provinsi == null) {
+            throw new ResourceNotFoundException();
+        }
 
         final Map<String, Object> documentSingleProvinsi = new LinkedHashMap<String, Object>();
         documentSingleProvinsi.put("data", provinsi);
