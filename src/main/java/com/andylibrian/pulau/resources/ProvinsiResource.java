@@ -1,9 +1,12 @@
 package com.andylibrian.pulau.resources;
 
+import com.andylibrian.pulau.core.Kabupaten;
+import com.andylibrian.pulau.core.KabupatenRepository;
 import com.andylibrian.pulau.core.Provinsi;
 import com.andylibrian.pulau.core.ProvinsiRepository;
-import com.codahale.metrics.annotation.Timed;
 import com.andylibrian.pulau.core.ResourceNotFoundException;
+import com.codahale.metrics.annotation.Timed;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -24,10 +27,14 @@ public class ProvinsiResource {
     private final List<Provinsi> provinsiList;
     private final HashMap<String, Provinsi> provinsiMap;
 
+    private final KabupatenRepository kabupatenRepo;
+
     public ProvinsiResource() {
         final ProvinsiRepository repo = new ProvinsiRepository();
+        kabupatenRepo = new KabupatenRepository();
+
         provinsiList = repo.findAll();
-        
+
         provinsiMap = new HashMap<String, Provinsi>();
         for (Provinsi p : provinsiList) {
             provinsiMap.put(p.getId(), p);
@@ -42,19 +49,37 @@ public class ProvinsiResource {
         return documentAllProvinsi;
     }
 
-    @GET @Path("/{id}")
+    @GET
+    @Path("/{id}")
     public Map<String, Object> findSingle(@PathParam("id") String id) throws ResourceNotFoundException {
-        
-        Provinsi provinsi = provinsiMap.get(id);
-        
+
+        final Provinsi provinsi = provinsiMap.get(id);
+
         if (provinsi == null) {
             throw new ResourceNotFoundException();
         }
 
         final Map<String, Object> documentSingleProvinsi = new LinkedHashMap<String, Object>();
         documentSingleProvinsi.put("data", provinsi);
-        
+
         return documentSingleProvinsi;
-                
+
+    }
+
+    @GET
+    @Path("/{id}/kabupaten")
+    public Map<String, Object> findKabupaten(@PathParam("id") String id) throws ResourceNotFoundException {
+        final Provinsi provinsi = provinsiMap.get(id);
+
+        if (provinsi == null) {
+            throw new ResourceNotFoundException();
+        }
+
+        final List<Kabupaten> kabupatenList = kabupatenRepo.findByProvinsi(id);
+
+        final Map<String, Object> documentKabupaten = new LinkedHashMap<String, Object>();
+        documentKabupaten.put("data", kabupatenList);
+
+        return documentKabupaten;
     }
 }

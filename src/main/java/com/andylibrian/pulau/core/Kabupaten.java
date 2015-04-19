@@ -2,13 +2,14 @@ package com.andylibrian.pulau.core;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-public class Provinsi {
+public class Kabupaten {
 
-    private final String type = "provinsi";
+    private final String type = "kabupaten";
+
     private final String id;
     private final String name;
 
-    public Provinsi(String id, String name) {
+    public Kabupaten(String id, String name) {
         this.id = id;
         this.name = name;
     }
