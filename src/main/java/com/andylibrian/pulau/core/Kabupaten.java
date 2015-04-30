@@ -8,10 +8,12 @@ public class Kabupaten {
 
     private final String id;
     private final String name;
+    private final String idProvinsi;
 
-    public Kabupaten(String id, String name) {
+    public Kabupaten(String id, String name, String idProvinsi) {
         this.id = id;
         this.name = name;
+        this.idProvinsi = idProvinsi;
     }
 
     @JsonProperty
@@ -27,5 +29,9 @@ public class Kabupaten {
     @JsonProperty
     public String getName() {
         return name;
+    }
+    
+    public String getIdProvinsi() {
+        return idProvinsi;
     }
 }
