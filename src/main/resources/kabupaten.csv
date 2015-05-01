@@ -1,821 +1,835 @@
 id,name,id_provinsi
-simeulue,Simeulue,aceh
-nagan-raya,"Nagan Raya",aceh
-suka-makmue,"Suka Makmue",aceh
-kab-aceh-utara,"Kab. Aceh Utara",aceh
-aceh-barat-daya,"Aceh Barat Daya",aceh
-tapak-tuan,"Tapak Tuan",aceh
-lhoksukon,Lhoksukon,aceh
-blangkejeren,Blangkejeren,aceh
-simpang-tiga-redelong,"Simpang Tiga Redelong",aceh
-kabaceh-tamiang,"Kab.aceh Tamiang",aceh
-bireuen,Bireuen,aceh
-banda-aceh,"Banda Aceh",aceh
-singkil,Singkil,aceh
-kab-aceh-besar,"Kab. Aceh Besar",aceh
-rantau,Rantau,aceh
-blangpidie,Blangpidie,aceh
-kab-pidie,"Kab Pidie",aceh
-aceh-tengah,"Aceh Tengah",aceh
-kota-sabang,"Kota Sabang",aceh
-meureudu,Meureudu,aceh
-jantho,Jantho,aceh
-aceh-jaya,"Aceh Jaya",aceh
-kuala-simpang-,"Kuala Simpang ",aceh
-kab-gayo-lues,"Kab Gayo Lues",aceh
-bener-meriah,"Bener Meriah",aceh
-sinabang,Sinabang,aceh
-pidie-jaya,"Pidie Jaya",aceh
-aceh-tenggara,"Aceh Tenggara",aceh
-takengon,Takengon,aceh
-meulaboh,Meulaboh,aceh
-kab-aceh-selatan,"Kab. Aceh Selatan",aceh
-langsa,Langsa,aceh
-calang,Calang,aceh
-subulussalam,Subulussalam,aceh
-kab-aceh-timur,"Kab. Aceh Timur",aceh
-idi-rayeuk,"Idi Rayeuk",aceh
-sabang,Sabang,aceh
 aceh-barat,"Aceh Barat",aceh
-lhokseumawe,Lhokseumawe,aceh
-sigli,Sigli,aceh
+aceh-barat-daya,"Aceh Barat Daya",aceh
+aceh-jaya,"Aceh Jaya",aceh
+aceh-tengah,"Aceh Tengah",aceh
+aceh-tenggara,"Aceh Tenggara",aceh
+banda-aceh,"Banda Aceh",aceh
+bener-meriah,"Bener Meriah",aceh
+bireuen,Bireuen,aceh
+blangkejeren,Blangkejeren,aceh
+blangpidie,Blangpidie,aceh
+calang,Calang,aceh
+idi-rayeuk,"Idi Rayeuk",aceh
+jantho,Jantho,aceh
+kab-gayo-lues,"Kab Gayo Lues",aceh
+kab-pidie,"Kab Pidie",aceh
+kab-aceh-besar,"Kab. Aceh Besar",aceh
+kab-aceh-selatan,"Kab. Aceh Selatan",aceh
 kab-aceh-singkil,"Kab. Aceh Singkil",aceh
+kab-aceh-timur,"Kab. Aceh Timur",aceh
+kab-aceh-utara,"Kab. Aceh Utara",aceh
+kabaceh-tamiang,"Kab.aceh Tamiang",aceh
+kota-sabang,"Kota Sabang",aceh
+kuala-simpang-,"Kuala Simpang ",aceh
 kutacane,Kutacane,aceh
-singaraja,Singaraja,bali
+langsa,Langsa,aceh
+lhokseumawe,Lhokseumawe,aceh
+lhoksukon,Lhoksukon,aceh
+meulaboh,Meulaboh,aceh
+meureudu,Meureudu,aceh
+nagan-raya,"Nagan Raya",aceh
+pidie-jaya,"Pidie Jaya",aceh
+rantau,Rantau,aceh
+sabang,Sabang,aceh
+sigli,Sigli,aceh
+simeulue,Simeulue,aceh
+simpang-tiga-redelong,"Simpang Tiga Redelong",aceh
+sinabang,Sinabang,aceh
+singkil,Singkil,aceh
+subulussalam,Subulussalam,aceh
+suka-makmue,"Suka Makmue",aceh
+takengon,Takengon,aceh
+tapak-tuan,"Tapak Tuan",aceh
+amlapura-,"Amlapura ",bali
+bangli,Bangli,bali
+denpasar,Denpasar,bali
+gianyar,Gianyar,bali
+kab-badung,"Kab Badung",bali
 kab-bangli,"Kab Bangli",bali
-negara,Negara,bali
-karang-asem,"Karang Asem",bali
 kab-buleleng,"Kab Buleleng",bali
 kab-jembrana,"Kab Jembrana",bali
-tabanan,Tabanan,bali
-kab-badung,"Kab Badung",bali
-bangli,Bangli,bali
-gianyar,Gianyar,bali
-amlapura-,"Amlapura ",bali
+karang-asem,"Karang Asem",bali
+negara,Negara,bali
 semarapura,Semarapura,bali
-denpasar,Denpasar,bali
-kab-tangerang,"Kab Tangerang",banten
-tigaraksa,Tigaraksa,banten
-kab-serang,"Kab Serang",banten
-cilegon,Cilegon,banten
-lebak,Lebak,banten
-tangerang,Tangerang,banten
+singaraja,Singaraja,bali
+tabanan,Tabanan,bali
 baros,Baros,banten
-rangkasbitung,Rangkasbitung,banten
+cilegon,Cilegon,banten
 kab-pandeglang,"Kab Pandeglang",banten
-tangerang-selatan,"Tangerang Selatan",banten
-serang,Serang,banten
+kab-serang,"Kab Serang",banten
+kab-tangerang,"Kab Tangerang",banten
+lebak,Lebak,banten
 pandeglang,Pandeglang,banten
+rangkasbitung,Rangkasbitung,banten
+serang,Serang,banten
 serpong,Serpong,banten
-kota-manna,"Kota Manna",bengkulu
-curup,Curup,bengkulu
-kepahiang,Kepahiang,bengkulu
-kab-kaur,"Kab Kaur",bengkulu
-bengkulu,Bengkulu,bengkulu
-tais,Tais,bengkulu
-lebong,Lebong,bengkulu
-kab-bengkulu-selatan,"Kab Bengkulu Selatan",bengkulu
-kab-rejang-lebong,"Kab Rejang Lebong",bengkulu
+tangerang,Tangerang,banten
+tangerang-selatan,"Tangerang Selatan",banten
+tigaraksa,Tigaraksa,banten
 arga-makmur,"Arga Makmur",bengkulu
-kaur,Kaur,bengkulu
-kab-kepahiang,"Kab Kepahiang",bengkulu
+bengkulu,Bengkulu,bengkulu
 bengkulu-tengah,"Bengkulu Tengah",bengkulu
-mukomuko,Mukomuko,bengkulu
-kab-seluma,"Kab Seluma",bengkulu
+curup,Curup,bengkulu
+kab-bengkulu-selatan,"Kab Bengkulu Selatan",bengkulu
 kab-bengkulu-utara,"Kab Bengkulu Utara",bengkulu
-gorontalo,Gorontalo,gorontalo
-pohuwato,Pohuwato,gorontalo
+kab-kaur,"Kab Kaur",bengkulu
+kab-kepahiang,"Kab Kepahiang",bengkulu
+kab-rejang-lebong,"Kab Rejang Lebong",bengkulu
+kab-seluma,"Kab Seluma",bengkulu
+kaur,Kaur,bengkulu
+kepahiang,Kepahiang,bengkulu
+kota-manna,"Kota Manna",bengkulu
+lebong,Lebong,bengkulu
+mukomuko,Mukomuko,bengkulu
+tais,Tais,bengkulu
 boalemo,Boalemo,gorontalo
-suwawa,Suwawa,gorontalo
-kab-gorontalo-utara,"Kab Gorontalo Utara",gorontalo
-kab-bone-bolango,"Kab Bone Bolango",gorontalo
-tilamuta,Tilamuta,gorontalo
-kab-pahuwato,"Kab Pahuwato",gorontalo
-marisa,Marisa,gorontalo
+gorontalo,Gorontalo,gorontalo
 kab-boalemo,"Kab Boalemo",gorontalo
-kwandang,Kwandang,gorontalo
+kab-bone-bolango,"Kab Bone Bolango",gorontalo
 kab-gorontalo,"Kab Gorontalo",gorontalo
+kab-gorontalo-utara,"Kab Gorontalo Utara",gorontalo
+kab-pahuwato,"Kab Pahuwato",gorontalo
+kwandang,Kwandang,gorontalo
+marisa,Marisa,gorontalo
+pohuwato,Pohuwato,gorontalo
+suwawa,Suwawa,gorontalo
+tilamuta,Tilamuta,gorontalo
+jakarta-barat,"Jakarta Barat",jakarta
+jakarta-pusat,"Jakarta Pusat",jakarta
 jakarta-selatan,"Jakarta Selatan",jakarta
 jakarta-timur,"Jakarta Timur",jakarta
 jakarta-utara,"Jakarta Utara",jakarta
 kepulauan-seribu,"Kepulauan Seribu",jakarta
-jakarta-barat,"Jakarta Barat",jakarta
-jakarta-pusat,"Jakarta Pusat",jakarta
+bangko,Bangko,jambi
+jambi,Jambi,jambi
+kab-batang-hari,"Kab Batang Hari",jambi
+kab-bungo,"Kab Bungo",jambi
+kab-kerinci,"Kab Kerinci",jambi
+kab-merangin,"Kab Merangin",jambi
+kab-sarolangun,"Kab Sarolangun",jambi
+kab-tanjung-jabung-timur,"Kab Tanjung Jabung Timur",jambi
+kuala-tungkal,"Kuala Tungkal",jambi
+muara-bulian,"Muara Bulian",jambi
 muara-bungo,"Muara Bungo",jambi
 muara-sabak,"Muara Sabak",jambi
-tanjung-jabung-barat,"Tanjung Jabung Barat",jambi
-kab-bungo,"Kab Bungo",jambi
-kab-batang-hari,"Kab Batang Hari",jambi
-kab-kerinci,"Kab Kerinci",jambi
-tebo,Tebo,jambi
-kab-tanjung-jabung-timur,"Kab Tanjung Jabung Timur",jambi
-sungai-penuh,"Sungai Penuh",jambi
+muara-tebo,"Muara Tebo",jambi
 muaro-jambi,"Muaro Jambi",jambi
-bangko,Bangko,jambi
-muara-bulian,"Muara Bulian",jambi
-jambi,Jambi,jambi
-kuala-tungkal,"Kuala Tungkal",jambi
 sarolangun,Sarolangun,jambi
 sengeti,Sengeti,jambi
-kab-sarolangun,"Kab Sarolangun",jambi
-kab-merangin,"Kab Merangin",jambi
-muara-tebo,"Muara Tebo",jambi
+sungai-penuh,"Sungai Penuh",jambi
+tanjung-jabung-barat,"Tanjung Jabung Barat",jambi
+tebo,Tebo,jambi
+bandung,Bandung,jawa-barat
 banjar,Banjar,jawa-barat
-sumedang,Sumedang,jawa-barat
-sukabumi,Sukabumi,jawa-barat
-cibinong,Cibinong,jawa-barat
 bekasi,Bekasi,jawa-barat
+bogor,Bogor,jawa-barat
+ciamis,Ciamis,jawa-barat
+cianjur,Cianjur,jawa-barat
+cibinong,Cibinong,jawa-barat
+cikarang,Cikarang,jawa-barat
+cikarang-timur,"Cikarang Timur",jawa-barat
+cikarang-utara,"Cikarang Utara",jawa-barat
+cimahi,Cimahi,jawa-barat
+cirebon,Cirebon,jawa-barat
 depok,Depok,jawa-barat
+garut,Garut,jawa-barat
 indramayu,Indramayu,jawa-barat
+kab-bandung,"Kab Bandung",jawa-barat
+kab-bandung-barat,"Kab Bandung Barat",jawa-barat
+kab-banjar,"Kab Banjar",jawa-barat
+kab-bogor,"Kab Bogor",jawa-barat
+kab-ciamis,"Kab Ciamis",jawa-barat
+kab-cianjur,"Kab Cianjur",jawa-barat
+kab-cirebon,"Kab Cirebon",jawa-barat
+kab-kuningan,"Kab Kuningan",jawa-barat
+kab-majalengka,"Kab Majalengka",jawa-barat
+kab-purwakarta,"Kab Purwakarta",jawa-barat
+kab-subang,"Kab Subang",jawa-barat
+kab-tasikmalaya,"Kab Tasikmalaya",jawa-barat
+kab-bekasi,"Kab. Bekasi",jawa-barat
+karawang,Karawang,jawa-barat
+kuningan,Kuningan,jawa-barat
 majalengka,Majalengka,jawa-barat
 ngamprah,Ngamprah,jawa-barat
-kab-cirebon,"Kab Cirebon",jawa-barat
-kab-tasikmalaya,"Kab Tasikmalaya",jawa-barat
-bogor,Bogor,jawa-barat
-kab-banjar,"Kab Banjar",jawa-barat
-cikarang,Cikarang,jawa-barat
-garut,Garut,jawa-barat
-kab-subang,"Kab Subang",jawa-barat
-cimahi,Cimahi,jawa-barat
-kab-kuningan,"Kab Kuningan",jawa-barat
-ciamis,Ciamis,jawa-barat
-cikarang-timur,"Cikarang Timur",jawa-barat
-kab-ciamis,"Kab Ciamis",jawa-barat
-kab-bekasi,"Kab. Bekasi",jawa-barat
-subang,Subang,jawa-barat
-cirebon,Cirebon,jawa-barat
-kab-bandung,"Kab Bandung",jawa-barat
-sumber,Sumber,jawa-barat
-bandung,Bandung,jawa-barat
-kab-bogor,"Kab Bogor",jawa-barat
-cianjur,Cianjur,jawa-barat
-karawang,Karawang,jawa-barat
-kab-purwakarta,"Kab Purwakarta",jawa-barat
-cikarang-utara,"Cikarang Utara",jawa-barat
-kab-cianjur,"Kab Cianjur",jawa-barat
-singaparna,Singaparna,jawa-barat
-kuningan,Kuningan,jawa-barat
 purwakarta,Purwakarta,jawa-barat
-kab-bandung-barat,"Kab Bandung Barat",jawa-barat
+singaparna,Singaparna,jawa-barat
 soreang,Soreang,jawa-barat
-kab-majalengka,"Kab Majalengka",jawa-barat
+subang,Subang,jawa-barat
+sukabumi,Sukabumi,jawa-barat
+sumber,Sumber,jawa-barat
+sumedang,Sumedang,jawa-barat
 tasikmalaya,Tasikmalaya,jawa-barat
-cilacap,Cilacap,jawa-tengah
-giritronto,Giritronto,jawa-tengah
-pati,Pati,jawa-tengah
-kab-karanganyar,"Kab Karanganyar",jawa-tengah
-kab-purworejo,"Kab Purworejo",jawa-tengah
-jepara,Jepara,jawa-tengah
-kab-wonogiri,"Kab Wonogiri",jawa-tengah
-kab-batang,"Kab Batang",jawa-tengah
-kebumen,Kebumen,jawa-tengah
-kab-semarang,"Kab Semarang",jawa-tengah
-wonosobo,Wonosobo,jawa-tengah
-ermoko,Ermoko,jawa-tengah
-purworejo,Purworejo,jawa-tengah
-kab-pemalang,"Kab Pemalang",jawa-tengah
-brebes,Brebes,jawa-tengah
-kab-boyolali,"Kab Boyolali",jawa-tengah
-solo,Solo,jawa-tengah
-jatisrono,Jatisrono,jawa-tengah
-giriwoyo,Giriwoyo,jawa-tengah
-kab-cilacap,"Kab Cilacap",jawa-tengah
-kab-rembang,"Kab Rembang",jawa-tengah
-bulukerto,Bulukerto,jawa-tengah
-kab-blora,"Kab Blora",jawa-tengah
-kab-magelang,"Kab Magelang",jawa-tengah
-temanggung,Temanggung,jawa-tengah
-baturetno,Baturetno,jawa-tengah
-pemalang,Pemalang,jawa-tengah
-salatiga,Salatiga,jawa-tengah
-kab-brebes,"Kab Brebes",jawa-tengah
-batang,Batang,jawa-tengah
-ungaran,Ungaran,jawa-tengah
-sragen,Sragen,jawa-tengah
-kab-kendal,"Kab Kendal",jawa-tengah
-kudus,Kudus,jawa-tengah
-slawi,Slawi,jawa-tengah
-sukoharjo,Sukoharjo,jawa-tengah
-kab-tegal,"Kab Tegal",jawa-tengah
-batuwarno,Batuwarno,jawa-tengah
-kajen,Kajen,jawa-tengah
-banyumas,Banyumas,jawa-tengah
-karanganyar,Karanganyar,jawa-tengah
-kab-jepara,"Kab Jepara",jawa-tengah
-kab-purbalingga,"Kab Purbalingga",jawa-tengah
-tegal,Tegal,jawa-tengah
-pekalongan,Pekalongan,jawa-tengah
-purbalingga,Purbalingga,jawa-tengah
-kab-pati,"Kab Pati",jawa-tengah
-purwodadi,Purwodadi,jawa-tengah
-kab-temanggung,"Kab Temanggung",jawa-tengah
-demak,Demak,jawa-tengah
-jatipurno,Jatipurno,jawa-tengah
-kab-banjarnegara,"Kab Banjarnegara",jawa-tengah
-kendal,Kendal,jawa-tengah
-magelang,Magelang,jawa-tengah
-girimarto,Girimarto,jawa-tengah
-rembang,Rembang,jawa-tengah
-klaten,Klaten,jawa-tengah
-blora,Blora,jawa-tengah
 banjarnegara,Banjarnegara,jawa-tengah
-wonogiri,Wonogiri,jawa-tengah
-kab-grobogan,"Kab Grobogan",jawa-tengah
-kab-pekalongan,"Kab Pekalongan",jawa-tengah
-purwokerto,Purwokerto,jawa-tengah
+banyumas,Banyumas,jawa-tengah
+batang,Batang,jawa-tengah
+baturetno,Baturetno,jawa-tengah
+batuwarno,Batuwarno,jawa-tengah
+blora,Blora,jawa-tengah
 boyolali,Boyolali,jawa-tengah
-semarang,Semarang,jawa-tengah
+brebes,Brebes,jawa-tengah
+bulukerto,Bulukerto,jawa-tengah
+cilacap,Cilacap,jawa-tengah
+demak,Demak,jawa-tengah
+ermoko,Ermoko,jawa-tengah
+girimarto,Girimarto,jawa-tengah
+giritronto,Giritronto,jawa-tengah
+giriwoyo,Giriwoyo,jawa-tengah
+jatipurno,Jatipurno,jawa-tengah
 jatiroto,Jatiroto,jawa-tengah
+jatisrono,Jatisrono,jawa-tengah
+jepara,Jepara,jawa-tengah
+kab-banjarnegara,"Kab Banjarnegara",jawa-tengah
+kab-batang,"Kab Batang",jawa-tengah
+kab-blora,"Kab Blora",jawa-tengah
+kab-boyolali,"Kab Boyolali",jawa-tengah
+kab-brebes,"Kab Brebes",jawa-tengah
+kab-cilacap,"Kab Cilacap",jawa-tengah
+kab-grobogan,"Kab Grobogan",jawa-tengah
+kab-jepara,"Kab Jepara",jawa-tengah
+kab-karanganyar,"Kab Karanganyar",jawa-tengah
+kab-kendal,"Kab Kendal",jawa-tengah
 kab-kudus,"Kab Kudus",jawa-tengah
-kab-pacitan,"Kab Pacitan",jawa-timur
-kab-bondowoso,"Kab Bondowoso",jawa-timur
-kab-madiun,"Kab Madiun",jawa-timur
-lamongan,Lamongan,jawa-timur
-nganjuk,Nganjuk,jawa-timur
-kab-gresik,"Kab Gresik",jawa-timur
-tuban,Tuban,jawa-timur
-kab-malang,"Kab Malang",jawa-timur
-sampang,Sampang,jawa-timur
-kepanjen,Kepanjen,jawa-timur
-pandaan,Pandaan,jawa-timur
-ponorogo,Ponorogo,jawa-timur
-jombang,Jombang,jawa-timur
-kab-pamekasan,"Kab Pamekasan",jawa-timur
-sumenep,Sumenep,jawa-timur
-kediri,Kediri,jawa-timur
-ngawi,Ngawi,jawa-timur
-jember,Jember,jawa-timur
-kab-trenggalek,"Kab Trenggalek",jawa-timur
-kab-lamongan,"Kab Lamongan",jawa-timur
-kab-sampang,"Kab Sampang",jawa-timur
-ponorogo,Ponorogo,jawa-timur
-batu,Batu,jawa-timur
-bojonegoro,Bojonegoro,jawa-timur
-kab-sidoarjo,"Kab Sidoarjo",jawa-timur
-madiun,Madiun,jawa-timur
+kab-magelang,"Kab Magelang",jawa-tengah
+kab-pati,"Kab Pati",jawa-tengah
+kab-pekalongan,"Kab Pekalongan",jawa-tengah
+kab-pemalang,"Kab Pemalang",jawa-tengah
+kab-purbalingga,"Kab Purbalingga",jawa-tengah
+kab-purworejo,"Kab Purworejo",jawa-tengah
+kab-rembang,"Kab Rembang",jawa-tengah
+kab-semarang,"Kab Semarang",jawa-tengah
+kab-tegal,"Kab Tegal",jawa-tengah
+kab-temanggung,"Kab Temanggung",jawa-tengah
+kab-wonogiri,"Kab Wonogiri",jawa-tengah
+kajen,Kajen,jawa-tengah
+karanganyar,Karanganyar,jawa-tengah
+kebumen,Kebumen,jawa-tengah
+kendal,Kendal,jawa-tengah
+klaten,Klaten,jawa-tengah
+kudus,Kudus,jawa-tengah
+magelang,Magelang,jawa-tengah
+pati,Pati,jawa-tengah
+pekalongan,Pekalongan,jawa-tengah
+pemalang,Pemalang,jawa-tengah
+purbalingga,Purbalingga,jawa-tengah
+purwodadi,Purwodadi,jawa-tengah
+purwokerto,Purwokerto,jawa-tengah
+purworejo,Purworejo,jawa-tengah
+rembang,Rembang,jawa-tengah
+salatiga,Salatiga,jawa-tengah
+semarang,Semarang,jawa-tengah
+slawi,Slawi,jawa-tengah
+solo,Solo,jawa-tengah
+sragen,Sragen,jawa-tengah
+sukoharjo,Sukoharjo,jawa-tengah
+tegal,Tegal,jawa-tengah
+temanggung,Temanggung,jawa-tengah
+ungaran,Ungaran,jawa-tengah
+wonogiri,Wonogiri,jawa-tengah
+wonosobo,Wonosobo,jawa-tengah
 bangkalan,Bangkalan,jawa-timur
-pamekasan,Pamekasan,jawa-timur
-kab-ngawi,"Kab Ngawi",jawa-timur
-probolinggo,Probolinggo,jawa-timur
-kab-tuban,"Kab Tuban",jawa-timur
+batu,Batu,jawa-timur
 blitar,Blitar,jawa-timur
-lumajang,Lumajang,jawa-timur
-gresik,Gresik,jawa-timur
-trenggalek,Trenggalek,jawa-timur
-kab-magetan,"Kab Magetan",jawa-timur
-pacitan,Pacitan,jawa-timur
-kab-banyuwangi,"Kab Banyuwangi",jawa-timur
-pasuruan,Pasuruan,jawa-timur
-kab-jombang,"Kab Jombang",jawa-timur
-tulungagung,Tulungagung,jawa-timur
-kab-nganjuk,"Kab Nganjuk",jawa-timur
-kab-tulungagung,"Kab Tulungagung",jawa-timur
+bojonegoro,Bojonegoro,jawa-timur
 bondowoso,Bondowoso,jawa-timur
+caruban,Caruban,jawa-timur
+gresik,Gresik,jawa-timur
+jember,Jember,jawa-timur
+jombang,Jombang,jawa-timur
+kab-bangkalan,"Kab Bangkalan",jawa-timur
+kab-banyuwangi,"Kab Banyuwangi",jawa-timur
+kab-bojonegoro,"Kab Bojonegoro",jawa-timur
+kab-bondowoso,"Kab Bondowoso",jawa-timur
+kab-gresik,"Kab Gresik",jawa-timur
+kab-jombang,"Kab Jombang",jawa-timur
+kab-lamongan,"Kab Lamongan",jawa-timur
 kab-lumajang,"Kab Lumajang",jawa-timur
+kab-madiun,"Kab Madiun",jawa-timur
+kab-magetan,"Kab Magetan",jawa-timur
+kab-malang,"Kab Malang",jawa-timur
+kab-nganjuk,"Kab Nganjuk",jawa-timur
+kab-ngawi,"Kab Ngawi",jawa-timur
+kab-pacitan,"Kab Pacitan",jawa-timur
+kab-pamekasan,"Kab Pamekasan",jawa-timur
+kab-sampang,"Kab Sampang",jawa-timur
+kab-sidoarjo,"Kab Sidoarjo",jawa-timur
+kab-situbondo,"Kab Situbondo",jawa-timur
 kab-sumenep,"Kab Sumenep",jawa-timur
+kab-trenggalek,"Kab Trenggalek",jawa-timur
+kab-tuban,"Kab Tuban",jawa-timur
+kab-tulungagung,"Kab Tulungagung",jawa-timur
+kediri,Kediri,jawa-timur
+kepanjen,Kepanjen,jawa-timur
+lamongan,Lamongan,jawa-timur
+lumajang,Lumajang,jawa-timur
+madiun,Madiun,jawa-timur
+magetan,Magetan,jawa-timur
 malang,Malang,jawa-timur
 mojokerto,Mojokerto,jawa-timur
-kab-bangkalan,"Kab Bangkalan",jawa-timur
-situbondo,Situbondo,jawa-timur
+nganjuk,Nganjuk,jawa-timur
+ngawi,Ngawi,jawa-timur
+pacitan,Pacitan,jawa-timur
+pamekasan,Pamekasan,jawa-timur
+pandaan,Pandaan,jawa-timur
+pasuruan,Pasuruan,jawa-timur
+ponorogo,Ponorogo,jawa-timur
+ponorogo,Ponorogo,jawa-timur
+probolinggo,Probolinggo,jawa-timur
+sampang,Sampang,jawa-timur
 sidoarjo,Sidoarjo,jawa-timur
-caruban,Caruban,jawa-timur
-kab-bojonegoro,"Kab Bojonegoro",jawa-timur
+situbondo,Situbondo,jawa-timur
+sumenep,Sumenep,jawa-timur
 surabaya,Surabaya,jawa-timur
-kab-situbondo,"Kab Situbondo",jawa-timur
-magetan,Magetan,jawa-timur
-sukadana,Sukadana,kalimantan-barat
-ngabang,Ngabang,kalimantan-barat
+trenggalek,Trenggalek,jawa-timur
+tuban,Tuban,jawa-timur
+tulungagung,Tulungagung,jawa-timur
 bengkayang,Bengkayang,kalimantan-barat
-kab-sanggau,"Kab Sanggau",kalimantan-barat
+kab-bengkayang,"Kab Bengkayang",kalimantan-barat
 kab-kapuas-hulu,"Kab Kapuas Hulu",kalimantan-barat
-singkawang,Singkawang,kalimantan-barat
+kab-kayong-utara,"Kab Kayong Utara",kalimantan-barat
+kab-ketapang,"Kab Ketapang",kalimantan-barat
+kab-kubu-raya,"Kab Kubu Raya",kalimantan-barat
+kab-landak,"Kab Landak",kalimantan-barat
+kab-melawi,"Kab Melawi",kalimantan-barat
+kab-pontianak,"Kab Pontianak",kalimantan-barat
+kab-sambas,"Kab Sambas",kalimantan-barat
+kab-sanggau,"Kab Sanggau",kalimantan-barat
+kab-sekadau,"Kab Sekadau",kalimantan-barat
+kab-sintang,"Kab Sintang",kalimantan-barat
+ketapang,Ketapang,kalimantan-barat
 kubu-raya,"Kubu Raya",kalimantan-barat
 mempawah,Mempawah,kalimantan-barat
-sekadau,Sekadau,kalimantan-barat
-kab-ketapang,"Kab Ketapang",kalimantan-barat
-kab-sekadau,"Kab Sekadau",kalimantan-barat
-kab-landak,"Kab Landak",kalimantan-barat
-sanggau,Sanggau,kalimantan-barat
-putussibau,Putussibau,kalimantan-barat
-kab-pontianak,"Kab Pontianak",kalimantan-barat
-ketapang,Ketapang,kalimantan-barat
-sintang,Sintang,kalimantan-barat
-kab-melawi,"Kab Melawi",kalimantan-barat
-pontianak,Pontianak,kalimantan-barat
-sambas,Sambas,kalimantan-barat
-kab-kubu-raya,"Kab Kubu Raya",kalimantan-barat
-kab-sintang,"Kab Sintang",kalimantan-barat
 nanga-pinoh,"Nanga Pinoh",kalimantan-barat
-kab-bengkayang,"Kab Bengkayang",kalimantan-barat
-kab-kayong-utara,"Kab Kayong Utara",kalimantan-barat
-kab-sambas,"Kab Sambas",kalimantan-barat
-banjarmasin-tengah,"Banjarmasin Tengah",kalimantan-selatan
-kab-hulu-sungai-tengah,"Kab Hulu Sungai Tengah",kalimantan-selatan
-kota-baru--pulau-laut,"Kota Baru / Pulau Laut",kalimantan-selatan
-tanah-laut,"Tanah Laut",kalimantan-selatan
-marabahan,Marabahan,kalimantan-selatan
-paringin,Paringin,kalimantan-selatan
-barabai,Barabai,kalimantan-selatan
-banjar,Banjar,kalimantan-selatan
-hulu-sungai-utara,"Hulu Sungai Utara",kalimantan-selatan
-kab-tabalong,"Kab Tabalong",kalimantan-selatan
-banjar-baru,"Banjar Baru",kalimantan-selatan
-kab-banjarmasin,"Kab Banjarmasin",kalimantan-selatan
-tapin,Tapin,kalimantan-selatan
-martapura,Martapura,kalimantan-selatan
-pelaihari,Pelaihari,kalimantan-selatan
-batu-licin,"Batu Licin",kalimantan-selatan
-banjarmasin,Banjarmasin,kalimantan-selatan
-tanah-bumbu,"Tanah Bumbu",kalimantan-selatan
-banjarmasin-selatan,"Banjarmasin Selatan",kalimantan-selatan
-kab-balangan,"Kab Balangan",kalimantan-selatan
-kab-hulu-sungai-selatan,"Kab Hulu Sungai Selatan",kalimantan-selatan
+ngabang,Ngabang,kalimantan-barat
+pontianak,Pontianak,kalimantan-barat
+putussibau,Putussibau,kalimantan-barat
+sambas,Sambas,kalimantan-barat
+sanggau,Sanggau,kalimantan-barat
+sekadau,Sekadau,kalimantan-barat
+singkawang,Singkawang,kalimantan-barat
+sintang,Sintang,kalimantan-barat
+sukadana,Sukadana,kalimantan-barat
 amuntai,Amuntai,kalimantan-selatan
-kandangan,Kandangan,kalimantan-selatan
+banjar,Banjar,kalimantan-selatan
+banjar-baru,"Banjar Baru",kalimantan-selatan
+banjarmasin,Banjarmasin,kalimantan-selatan
+banjarmasin-selatan,"Banjarmasin Selatan",kalimantan-selatan
+banjarmasin-tengah,"Banjarmasin Tengah",kalimantan-selatan
+barabai,Barabai,kalimantan-selatan
+batu-licin,"Batu Licin",kalimantan-selatan
+hulu-sungai-utara,"Hulu Sungai Utara",kalimantan-selatan
+kab-balangan,"Kab Balangan",kalimantan-selatan
+kab-banjarmasin,"Kab Banjarmasin",kalimantan-selatan
 kab-barito-kuala,"Kab Barito Kuala",kalimantan-selatan
-seruyan,Seruyan,kalimantan-tengah
-buntok,Buntok,kalimantan-tengah
-kuala-kapuas-,"Kuala Kapuas ",kalimantan-tengah
-murung-raya,"Murung Raya",kalimantan-tengah
+kab-hulu-sungai-selatan,"Kab Hulu Sungai Selatan",kalimantan-selatan
+kab-hulu-sungai-tengah,"Kab Hulu Sungai Tengah",kalimantan-selatan
+kab-tabalong,"Kab Tabalong",kalimantan-selatan
+kandangan,Kandangan,kalimantan-selatan
+kota-baru--pulau-laut,"Kota Baru / Pulau Laut",kalimantan-selatan
+marabahan,Marabahan,kalimantan-selatan
+martapura,Martapura,kalimantan-selatan
+paringin,Paringin,kalimantan-selatan
+pelaihari,Pelaihari,kalimantan-selatan
+tanah-bumbu,"Tanah Bumbu",kalimantan-selatan
+tanah-laut,"Tanah Laut",kalimantan-selatan
+tapin,Tapin,kalimantan-selatan
 barito-selatan,"Barito Selatan",kalimantan-tengah
-sukamara,Sukamara,kalimantan-tengah
-kuala-kurun-,"Kuala Kurun ",kalimantan-tengah
-tamiang-layang,"Tamiang Layang",kalimantan-tengah
-kab-gunung-mas,"Kab Gunung Mas",kalimantan-tengah
-muara-teweh,"Muara Teweh",kalimantan-tengah
 barito-timur,"Barito Timur",kalimantan-tengah
-kab-katingan,"Kab Katingan",kalimantan-tengah
-puruk-cahu,"Puruk Cahu",kalimantan-tengah
-pangkalan-bun,"Pangkalan Bun",kalimantan-tengah
-kotawaringin-barat,"Kotawaringin Barat",kalimantan-tengah
-kasongan,Kasongan,kalimantan-tengah
-kab-sukamara,"Kab Sukamara",kalimantan-tengah
 barito-utara,"Barito Utara",kalimantan-tengah
+buntok,Buntok,kalimantan-tengah
+kab-gunung-mas,"Kab Gunung Mas",kalimantan-tengah
+kab-katingan,"Kab Katingan",kalimantan-tengah
 kab-pulang-pisau,"Kab Pulang Pisau",kalimantan-tengah
-palangka-raya,"Palangka Raya",kalimantan-tengah
-nanga-bulik,"Nanga Bulik",kalimantan-tengah
-kotawaringin-timur,"Kotawaringin Timur",kalimantan-tengah
-pulang-pisau,"Pulang Pisau",kalimantan-tengah
-lamandau,Lamandau,kalimantan-tengah
-kuala-pembuang,"Kuala Pembuang",kalimantan-tengah
-sampit,Sampit,kalimantan-tengah
+kab-sukamara,"Kab Sukamara",kalimantan-tengah
 kapuas,Kapuas,kalimantan-tengah
-tanjung-redeb,"Tanjung Redeb",kalimantan-timur
-penajam,Penajam,kalimantan-timur
-kab-bulungan,"Kab Bulungan",kalimantan-timur
+kasongan,Kasongan,kalimantan-tengah
+kotawaringin-barat,"Kotawaringin Barat",kalimantan-tengah
+kotawaringin-timur,"Kotawaringin Timur",kalimantan-tengah
+kuala-kapuas-,"Kuala Kapuas ",kalimantan-tengah
+kuala-kurun-,"Kuala Kurun ",kalimantan-tengah
+kuala-pembuang,"Kuala Pembuang",kalimantan-tengah
+lamandau,Lamandau,kalimantan-tengah
+muara-teweh,"Muara Teweh",kalimantan-tengah
+murung-raya,"Murung Raya",kalimantan-tengah
+nanga-bulik,"Nanga Bulik",kalimantan-tengah
+palangka-raya,"Palangka Raya",kalimantan-tengah
+pangkalan-bun,"Pangkalan Bun",kalimantan-tengah
+pulang-pisau,"Pulang Pisau",kalimantan-tengah
+puruk-cahu,"Puruk Cahu",kalimantan-tengah
+sampit,Sampit,kalimantan-tengah
+seruyan,Seruyan,kalimantan-tengah
+sukamara,Sukamara,kalimantan-tengah
+tamiang-layang,"Tamiang Layang",kalimantan-tengah
 balikpapan,Balikpapan,kalimantan-timur
-malinau,Malinau,kalimantan-timur
-kab-berau,"Kab Berau",kalimantan-timur
-tana-tidung,"Tana Tidung",kalimantan-timur
-palaran,Palaran,kalimantan-timur
-kab-kutai-barat,"Kab Kutai Barat",kalimantan-timur
-kab-malinau,"Kab Malinau",kalimantan-timur
-nunukan,Nunukan,kalimantan-timur
-sendawar,Sendawar,kalimantan-timur
 bontang,Bontang,kalimantan-timur
-samarinda,Samarinda,kalimantan-timur
+kab-berau,"Kab Berau",kalimantan-timur
+kab-bulungan,"Kab Bulungan",kalimantan-timur
+kab-kutai-barat,"Kab Kutai Barat",kalimantan-timur
 kab-kutai-kartanegara,"Kab Kutai Kartanegara",kalimantan-timur
-kab-paser,"Kab Paser",kalimantan-timur
-tanah-grogot,"Tanah Grogot",kalimantan-timur
-sangatta,Sangatta,kalimantan-timur
-tanjung-selor,"Tanjung Selor",kalimantan-timur
-kab-penajam-paser-utara,"Kab Penajam Paser Utara",kalimantan-timur
 kab-kutai-timur,"Kab Kutai Timur",kalimantan-timur
-tarakan,Tarakan,kalimantan-timur
-tana-tidung,"Tana Tidung",kalimantan-timur
+kab-malinau,"Kab Malinau",kalimantan-timur
 kab-nunukan,"Kab Nunukan",kalimantan-timur
+kab-paser,"Kab Paser",kalimantan-timur
+kab-penajam-paser-utara,"Kab Penajam Paser Utara",kalimantan-timur
+malinau,Malinau,kalimantan-timur
+nunukan,Nunukan,kalimantan-timur
+palaran,Palaran,kalimantan-timur
+penajam,Penajam,kalimantan-timur
+samarinda,Samarinda,kalimantan-timur
+sangatta,Sangatta,kalimantan-timur
+sendawar,Sendawar,kalimantan-timur
+tana-tidung,"Tana Tidung",kalimantan-timur
+tana-tidung,"Tana Tidung",kalimantan-timur
+tanah-grogot,"Tanah Grogot",kalimantan-timur
+tanjung-redeb,"Tanjung Redeb",kalimantan-timur
+tanjung-selor,"Tanjung Selor",kalimantan-timur
+tarakan,Tarakan,kalimantan-timur
 tenggarong,Tenggarong,kalimantan-timur
-bintan,Bintan,kepulauan-riau
-kab-karimun,"Kab Karimun",kepulauan-riau
-kab-bintan,"Kab Bintan",kepulauan-riau
-ranai,Ranai,kepulauan-riau
-daik,Daik,kepulauan-riau
-lingga,Lingga,kepulauan-riau
+belitung,Belitung,kepulauan-bangka-belitung
+belitung-timur,"Belitung Timur",kepulauan-bangka-belitung
+kab-bangka,"Kab Bangka",kepulauan-bangka-belitung
+kab-bangka-barat,"Kab Bangka Barat",kepulauan-bangka-belitung
+kab-bangka-selatan,"Kab Bangka Selatan",kepulauan-bangka-belitung
+kab-bangka-tengah,"Kab Bangka Tengah",kepulauan-bangka-belitung
+kab-koba,"Kab Koba",kepulauan-bangka-belitung
+kab-toboali,"Kab Toboali",kepulauan-bangka-belitung
+koba,Koba,kepulauan-bangka-belitung
+manggar,Manggar,kepulauan-bangka-belitung
+pangkal-pinang,"Pangkal Pinang",kepulauan-bangka-belitung
+sungai-liat,"Sungai Liat",kepulauan-bangka-belitung
+tanjung-pandan,"Tanjung Pandan",kepulauan-bangka-belitung
+toboali,Toboali,kepulauan-bangka-belitung
 batam,Batam,kepulauan-riau
-kepulauan-anambas,"Kepulauan Anambas",kepulauan-riau
+bintan,Bintan,kepulauan-riau
+daik,Daik,kepulauan-riau
+kab-bintan,"Kab Bintan",kepulauan-riau
+kab-karimun,"Kab Karimun",kepulauan-riau
 kab-natuna,"Kab Natuna",kepulauan-riau
+kepulauan-anambas,"Kepulauan Anambas",kepulauan-riau
+lingga,Lingga,kepulauan-riau
+ranai,Ranai,kepulauan-riau
 tanjung-pinang,"Tanjung Pinang",kepulauan-riau
-blambangan-umpu,"Blambangan Umpu",lampung
-kab-lampung-utara,"Kab Lampung Utara",lampung
-sukadana,Sukadana,lampung
-kota-metro,"Kota Metro",lampung
-lampung-barat,"Lampung Barat",lampung
-mesuji,Mesuji,lampung
-gedong-tataan,"Gedong Tataan",lampung
-kota-agung,"Kota Agung",lampung
-tulang-bawang-barat,"Tulang Bawang Barat",lampung
-pringsewu,Pringsewu,lampung
-gunung-sugih,"Gunung Sugih",lampung
 bandar-lampung,"Bandar Lampung",lampung
-menggala,Menggala,lampung
+blambangan-umpu,"Blambangan Umpu",lampung
+gedong-tataan,"Gedong Tataan",lampung
+gunung-sugih,"Gunung Sugih",lampung
 kab-lampung-selatan,"Kab Lampung Selatan",lampung
-liwa,Liwa,lampung
-metro,Metro,lampung
-kab-tulang-bawang,"Kab Tulang Bawang",lampung
-kotabumi,Kotabumi,lampung
-way-kanan,"Way Kanan",lampung
 kab-lampung-tengah,"Kab Lampung Tengah",lampung
-kab-tanggamus,"Kab Tanggamus",lampung
 kab-lampung-timur,"Kab Lampung Timur",lampung
+kab-lampung-utara,"Kab Lampung Utara",lampung
 kab-pesawaran,"Kab Pesawaran",lampung
-seram-bagian-barat,"Seram Bagian Barat",maluku
-piru,Piru,maluku
-maluku-barat-daya,"Maluku Barat Daya",maluku
+kab-tanggamus,"Kab Tanggamus",lampung
+kab-tulang-bawang,"Kab Tulang Bawang",lampung
+kota-agung,"Kota Agung",lampung
+kota-metro,"Kota Metro",lampung
+kotabumi,Kotabumi,lampung
+lampung-barat,"Lampung Barat",lampung
+liwa,Liwa,lampung
+menggala,Menggala,lampung
+mesuji,Mesuji,lampung
+metro,Metro,lampung
+pringsewu,Pringsewu,lampung
+sukadana,Sukadana,lampung
+tulang-bawang-barat,"Tulang Bawang Barat",lampung
+way-kanan,"Way Kanan",lampung
 air-buayaburu-utara,"Air Buaya/buru Utara",maluku
-seram-bagian-timur,"Seram Bagian Timur",maluku
-dataran-hunimoa,"Dataran Hunimoa",maluku
-kab-maluku-tengah,"Kab Maluku Tengah",maluku
-saumlaki,Saumlaki,maluku
-namlea,Namlea,maluku
-kepulauan-aru,"Kepulauan Aru",maluku
-kab-buru,"Kab Buru",maluku
 ambon,Ambon,maluku
-kab-maluku-tenggara,"Kab Maluku Tenggara",maluku
-masohi,Masohi,maluku
 buru-selatan,"Buru Selatan",maluku
-tual,Tual,maluku
+dataran-hunimoa,"Dataran Hunimoa",maluku
+kab-buru,"Kab Buru",maluku
+kab-maluku-tengah,"Kab Maluku Tengah",maluku
+kab-maluku-tenggara,"Kab Maluku Tenggara",maluku
+kepulauan-aru,"Kepulauan Aru",maluku
+maluku-barat-daya,"Maluku Barat Daya",maluku
 maluku-tenggara-barat,"Maluku Tenggara Barat",maluku
+masohi,Masohi,maluku
+namlea,Namlea,maluku
+piru,Piru,maluku
+saumlaki,Saumlaki,maluku
+seram-bagian-barat,"Seram Bagian Barat",maluku
+seram-bagian-timur,"Seram Bagian Timur",maluku
+tual,Tual,maluku
+halmahera-barat,"Halmahera Barat",maluku-utara
 halmahera-selatan,"Halmahera Selatan",maluku-utara
-pulau-morotai,"Pulau Morotai",maluku-utara
-sanana,Sanana,maluku-utara
-labuha,Labuha,maluku-utara
-kab-halmahera-tengah,"Kab Halmahera Tengah",maluku-utara
 jailolo,Jailolo,maluku-utara
+kab-halmahera-tengah,"Kab Halmahera Tengah",maluku-utara
 kab-halmahera-timur,"Kab Halmahera Timur",maluku-utara
-ternate,Ternate,maluku-utara
-tobelo,Tobelo,maluku-utara
 kab-halmahera-utara,"Kab Halmahera Utara",maluku-utara
 kab-kepulauan-sula,"Kab Kepulauan Sula",maluku-utara
-tidore-kepulauan,"Tidore Kepulauan",maluku-utara
-halmahera-barat,"Halmahera Barat",maluku-utara
-weda,Weda,maluku-utara
+labuha,Labuha,maluku-utara
 maba,Maba,maluku-utara
-kab-lombok-timur,"Kab Lombok Timur",nusa-tenggara-barat
-mataram,Mataram,nusa-tenggara-barat
-woha,Woha,nusa-tenggara-barat
-selong,Selong,nusa-tenggara-barat
-lombok-utara,"Lombok Utara",nusa-tenggara-barat
-kab-dompu,"Kab Dompu",nusa-tenggara-barat
+pulau-morotai,"Pulau Morotai",maluku-utara
+sanana,Sanana,maluku-utara
+ternate,Ternate,maluku-utara
+tidore-kepulauan,"Tidore Kepulauan",maluku-utara
+tobelo,Tobelo,maluku-utara
+weda,Weda,maluku-utara
 bima,Bima,nusa-tenggara-barat
-gerung,Gerung,nusa-tenggara-barat
-kab-lombok-barat,"Kab Lombok Barat",nusa-tenggara-barat
-sumbawa-besar,"Sumbawa Besar",nusa-tenggara-barat
-sumbawa,Sumbawa,nusa-tenggara-barat
-kab-lombok-tengah,"Kab Lombok Tengah",nusa-tenggara-barat
-sumbawa-barat,"Sumbawa Barat",nusa-tenggara-barat
 dompu,Dompu,nusa-tenggara-barat
+gerung,Gerung,nusa-tenggara-barat
 kab-bima,"Kab Bima",nusa-tenggara-barat
+kab-dompu,"Kab Dompu",nusa-tenggara-barat
+kab-lombok-barat,"Kab Lombok Barat",nusa-tenggara-barat
+kab-lombok-tengah,"Kab Lombok Tengah",nusa-tenggara-barat
+kab-lombok-timur,"Kab Lombok Timur",nusa-tenggara-barat
+lombok-utara,"Lombok Utara",nusa-tenggara-barat
+mataram,Mataram,nusa-tenggara-barat
+selong,Selong,nusa-tenggara-barat
+sumbawa,Sumbawa,nusa-tenggara-barat
+sumbawa-barat,"Sumbawa Barat",nusa-tenggara-barat
+sumbawa-besar,"Sumbawa Besar",nusa-tenggara-barat
 tanjung,Tanjung,nusa-tenggara-barat
-waingapu,Waingapu,nusa-tenggara-timur
-sabu-raijua,"Sabu Raijua",nusa-tenggara-timur
-maumere,Maumere,nusa-tenggara-timur
-kupang,Kupang,nusa-tenggara-timur
-tambolaka,Tambolaka,nusa-tenggara-timur
-kab-manggarai-timur,"Kab Manggarai Timur",nusa-tenggara-timur
-kab-flores-timur,"Kab Flores Timur",nusa-tenggara-timur
-kab-sumba-tengah,"Kab Sumba Tengah",nusa-tenggara-timur
-kab-timor-tengah-utara,"Kab Timor Tengah Utara",nusa-tenggara-timur
-kab-nagekeo,"Kab Nagekeo",nusa-tenggara-timur
-mbay,Mbay,nusa-tenggara-timur
-kab-sumba-timur,"Kab Sumba Timur",nusa-tenggara-timur
-kab-belu,"Kab Belu",nusa-tenggara-timur
-rote-ndao,"Rote Ndao",nusa-tenggara-timur
-bajawa,Bajawa,nusa-tenggara-timur
-kab-ende,"Kab Ende",nusa-tenggara-timur
-ende,Ende,nusa-tenggara-timur
-labuhan-bajo,"Labuhan Bajo",nusa-tenggara-timur
+woha,Woha,nusa-tenggara-barat
 alor,Alor,nusa-tenggara-timur
-kab-sikka,"Kab Sikka",nusa-tenggara-timur
-waibakul,Waibakul,nusa-tenggara-timur
-larantuka,Larantuka,nusa-tenggara-timur
-ruteng,Ruteng,nusa-tenggara-timur
-lembata,Lembata,nusa-tenggara-timur
-kefamenanu,Kefamenanu,nusa-tenggara-timur
-kab-manggarai,"Kab Manggarai",nusa-tenggara-timur
-soe,Soe,nusa-tenggara-timur
-kab-sumba-barat,"Kab Sumba Barat",nusa-tenggara-timur
-kalabahi,Kalabahi,nusa-tenggara-timur
 atambua,Atambua,nusa-tenggara-timur
-praya,Praya,nusa-tenggara-timur
+bajawa,Bajawa,nusa-tenggara-timur
 borong,Borong,nusa-tenggara-timur
-waikabubak,Waikabubak,nusa-tenggara-timur
+ende,Ende,nusa-tenggara-timur
+kab-belu,"Kab Belu",nusa-tenggara-timur
+kab-ende,"Kab Ende",nusa-tenggara-timur
+kab-flores-timur,"Kab Flores Timur",nusa-tenggara-timur
+kab-manggarai,"Kab Manggarai",nusa-tenggara-timur
+kab-manggarai-timur,"Kab Manggarai Timur",nusa-tenggara-timur
+kab-nagekeo,"Kab Nagekeo",nusa-tenggara-timur
 kab-ngada,"Kab Ngada",nusa-tenggara-timur
-manggarai-barat,"Manggarai Barat",nusa-tenggara-timur
-lewoleba,Lewoleba,nusa-tenggara-timur
-sumba-barat-daya,"Sumba Barat Daya",nusa-tenggara-timur
+kab-sikka,"Kab Sikka",nusa-tenggara-timur
+kab-sumba-barat,"Kab Sumba Barat",nusa-tenggara-timur
+kab-sumba-tengah,"Kab Sumba Tengah",nusa-tenggara-timur
+kab-sumba-timur,"Kab Sumba Timur",nusa-tenggara-timur
 kab-timor-tengah-selatan,"Kab Timor Tengah Selatan",nusa-tenggara-timur
-lanny-jaya,"Lanny Jaya",papua
-kab-tolikara,"Kab Tolikara",papua
-botawa,Botawa,papua
-serui,Serui,papua
-kab-kepi,"Kab Kepi",papua
-merauke,Merauke,papua
-sorendiweri,Sorendiweri,papua
-kab-jayawijaya,"Kab Jayawijaya",papua
-kepulauan-yapen,"Kepulauan Yapen",papua
-kab-merauke,"Kab Merauke",papua
-kabasmat,Kab.asmat,papua
-paniai,Paniai,papua
-puncak,Puncak,papua
-karubaga-,"Karubaga ",papua
-deiyai,Deiyai,papua
-yahukimo,Yahukimo,papua
+kab-timor-tengah-utara,"Kab Timor Tengah Utara",nusa-tenggara-timur
+kalabahi,Kalabahi,nusa-tenggara-timur
+kefamenanu,Kefamenanu,nusa-tenggara-timur
+kupang,Kupang,nusa-tenggara-timur
+labuhan-bajo,"Labuhan Bajo",nusa-tenggara-timur
+larantuka,Larantuka,nusa-tenggara-timur
+lembata,Lembata,nusa-tenggara-timur
+lewoleba,Lewoleba,nusa-tenggara-timur
+manggarai-barat,"Manggarai Barat",nusa-tenggara-timur
+maumere,Maumere,nusa-tenggara-timur
+mbay,Mbay,nusa-tenggara-timur
+praya,Praya,nusa-tenggara-timur
+rote-ndao,"Rote Ndao",nusa-tenggara-timur
+ruteng,Ruteng,nusa-tenggara-timur
+sabu-raijua,"Sabu Raijua",nusa-tenggara-timur
+soe,Soe,nusa-tenggara-timur
+sumba-barat-daya,"Sumba Barat Daya",nusa-tenggara-timur
+tambolaka,Tambolaka,nusa-tenggara-timur
+waibakul,Waibakul,nusa-tenggara-timur
+waikabubak,Waikabubak,nusa-tenggara-timur
+waingapu,Waingapu,nusa-tenggara-timur
+agats,Agats,papua
 biak-numfor,"Biak Numfor",papua
-tanah-merah,"Tanah Merah",papua
-kotamulia,Kotamulia,papua
-mamberamo-raya,"Mamberamo Raya",papua
-intan-jaya,"Intan Jaya",papua
-timika,Timika,papua
-kab-pegunungan-bintang,"Kab Pegunungan Bintang",papua
-waropen,Waropen,papua
-oksibil,Oksibil,papua
-kab-puncak-jaya,"Kab Puncak Jaya",papua
-wamena,Wamena,papua
-kab-keerom,"Kab Keerom",papua
-yalimo,Yalimo,papua
-mappi,Mappi,papua
-kab-nabire,"Kab Nabire",papua
-mamberamo-tengah,"Mamberamo Tengah",papua
-dogiyai,Dogiyai,papua
-sarmi,Sarmi,papua
-kab-sarmi,"Kab Sarmi",papua
-nduga,Nduga,papua
-supiori,Supiori,papua
+botawa,Botawa,papua
 boven-digoel,"Boven Digoel",papua
 burmeso,Burmeso,papua
+deiyai,Deiyai,papua
+dogiyai,Dogiyai,papua
+enarotali,Enarotali,papua
+intan-jaya,"Intan Jaya",papua
+jayapura,Jayapura,papua
+kab-jayawijaya,"Kab Jayawijaya",papua
+kab-keerom,"Kab Keerom",papua
+kab-kepi,"Kab Kepi",papua
+kab-merauke,"Kab Merauke",papua
+kab-nabire,"Kab Nabire",papua
+kab-pegunungan-bintang,"Kab Pegunungan Bintang",papua
+kab-puncak-jaya,"Kab Puncak Jaya",papua
+kab-sarmi,"Kab Sarmi",papua
+kab-tolikara,"Kab Tolikara",papua
+kabasmat,Kab.asmat,papua
+karubaga-,"Karubaga ",papua
+kepi,Kepi,papua
+kepulauan-yapen,"Kepulauan Yapen",papua
+kotamulia,Kotamulia,papua
+lanny-jaya,"Lanny Jaya",papua
+mamberamo-raya,"Mamberamo Raya",papua
+mamberamo-tengah,"Mamberamo Tengah",papua
+mappi,Mappi,papua
+merauke,Merauke,papua
 mimika,Mimika,papua
 nabire,Nabire,papua
-sumohai-,"Sumohai ",papua
-kepi,Kepi,papua
+nduga,Nduga,papua
 oksibil,Oksibil,papua
-enarotali,Enarotali,papua
+oksibil,Oksibil,papua
+paniai,Paniai,papua
+puncak,Puncak,papua
+sarmi,Sarmi,papua
+serui,Serui,papua
+sorendiweri,Sorendiweri,papua
+sumohai-,"Sumohai ",papua
+supiori,Supiori,papua
+tanah-merah,"Tanah Merah",papua
+timika,Timika,papua
+wamena,Wamena,papua
 waris,Waris,papua
-jayapura,Jayapura,papua
-agats,Agats,papua
-tambrauw,Tambrauw,papua-barat
-teluk-wondama,"Teluk Wondama",papua-barat
-kab-sorong-selatan,"Kab Sorong Selatan",papua-barat
-maybrat,Maybrat,papua-barat
-waisai,Waisai,papua-barat
-kab-raja-ampat,"Kab Raja Ampat",papua-barat
-manokwari,Manokwari,papua-barat
+waropen,Waropen,papua
+yahukimo,Yahukimo,papua
+yalimo,Yalimo,papua
 bintuni,Bintuni,papua-barat
-kaimana,Kaimana,papua-barat
-teminabuan,Teminabuan,papua-barat
-kab-teluk-bintuni,"Kab Teluk Bintuni",papua-barat
 fakfak,Fakfak,papua-barat
 kab-manokwari,"Kab Manokwari",papua-barat
+kab-raja-ampat,"Kab Raja Ampat",papua-barat
+kab-sorong-selatan,"Kab Sorong Selatan",papua-barat
+kab-teluk-bintuni,"Kab Teluk Bintuni",papua-barat
+kaimana,Kaimana,papua-barat
+manokwari,Manokwari,papua-barat
+maybrat,Maybrat,papua-barat
 sorong,Sorong,papua-barat
-kab-rokan-hilir,"Kab Rokan Hilir",riau
-kuantan-singingi,"Kuantan Singingi",riau
-kepulauan-meranti,"Kepulauan Meranti",riau
-kab-pelalawan,"Kab Pelalawan",riau
-bangkinang,Bangkinang,riau
-rokan-hulu,"Rokan Hulu",riau
+tambrauw,Tambrauw,papua-barat
+teluk-wondama,"Teluk Wondama",papua-barat
+teminabuan,Teminabuan,papua-barat
+waisai,Waisai,papua-barat
 bagansiapiapi,Bagansiapiapi,riau
-rengat,Rengat,riau
+bangkinang,Bangkinang,riau
 bangkinang-seberang,"Bangkinang Seberang",riau
-kab-siak,"Kab Siak",riau
-pasir-pengaraian,"Pasir Pengaraian",riau
-kab-bengkalis,"Kab Bengkalis",riau
-s-i-a-k,"S I A K",riau
-siak-sri-indrapura,"Siak Sri Indrapura",riau
-kab-kampar,"Kab Kampar",riau
-kab-indragiri-hilir,"Kab Indragiri Hilir",riau
-tanjung-balai-karimun,"Tanjung Balai Karimun",riau
-taluk-kuantan,"Taluk Kuantan",riau
-kota-dumai,"Kota Dumai",riau
 bengkalis,Bengkalis,riau
 d-u-m-a-i,"D U M A I",riau
-pekanbaru,Pekanbaru,riau
+kab-bengkalis,"Kab Bengkalis",riau
+kab-indragiri-hilir,"Kab Indragiri Hilir",riau
 kab-indragiri-hulu,"Kab Indragiri Hulu",riau
-mamuju-utara,"Mamuju Utara",sulawesi-barat
-mamasa,Mamasa,sulawesi-barat
-polewali-mandar,"Polewali Mandar",sulawesi-barat
-kab-polewali-mandar,"Kab Polewali Mandar",sulawesi-barat
-majene,Majene,sulawesi-barat
+kab-kampar,"Kab Kampar",riau
+kab-pelalawan,"Kab Pelalawan",riau
+kab-rokan-hilir,"Kab Rokan Hilir",riau
+kab-siak,"Kab Siak",riau
+kepulauan-meranti,"Kepulauan Meranti",riau
+kota-dumai,"Kota Dumai",riau
+kuantan-singingi,"Kuantan Singingi",riau
+pasir-pengaraian,"Pasir Pengaraian",riau
+pekanbaru,Pekanbaru,riau
+rengat,Rengat,riau
+rokan-hulu,"Rokan Hulu",riau
+s-i-a-k,"S I A K",riau
+siak-sri-indrapura,"Siak Sri Indrapura",riau
+taluk-kuantan,"Taluk Kuantan",riau
+tanjung-balai-karimun,"Tanjung Balai Karimun",riau
 kab-mamuju,"Kab Mamuju",sulawesi-barat
 kab-mamuju-utara,"Kab Mamuju Utara",sulawesi-barat
+kab-polewali-mandar,"Kab Polewali Mandar",sulawesi-barat
+majene,Majene,sulawesi-barat
+mamasa,Mamasa,sulawesi-barat
 mamuju,Mamuju,sulawesi-barat
-wajo,Wajo,sulawesi-selatan
-pangkajene-dan-kepulauan,"Pangkajene Dan Kepulauan",sulawesi-selatan
-kab-bone,"Kab Bone",sulawesi-selatan
-kab-luwu-timur,"Kab Luwu Timur",sulawesi-selatan
+mamuju-utara,"Mamuju Utara",sulawesi-barat
+polewali-mandar,"Polewali Mandar",sulawesi-barat
 bantaeng,Bantaeng,sulawesi-selatan
-palopo,Palopo,sulawesi-selatan
-watampone,Watampone,sulawesi-selatan
-makale,Makale,sulawesi-selatan
-kab-sidenreng,"Kab Sidenreng",sulawesi-selatan
-kab-luwu-utara,"Kab Luwu Utara",sulawesi-selatan
-kab-jeneponto,"Kab Jeneponto",sulawesi-selatan
-watansoppeng,Watansoppeng,sulawesi-selatan
-kab-barru,"Kab Barru",sulawesi-selatan
-sinjai,Sinjai,sulawesi-selatan
-parepare,Pare-pare,sulawesi-selatan
-kab-gowa,"Kab Gowa",sulawesi-selatan
-kab-tana-toraja,"Kab Tana Toraja",sulawesi-selatan
-toraja-utara,"Toraja Utara",sulawesi-selatan
-kab-selayar,"Kab Selayar",sulawesi-selatan
-sidenreng,Sidenreng,sulawesi-selatan
-sungguminasa,Sungguminasa,sulawesi-selatan
-makassar,Makassar,sulawesi-selatan
-makasar,Makasar,sulawesi-selatan
-sengkang,Sengkang,sulawesi-selatan
-kab-enrekang,"Kab Enrekang",sulawesi-selatan
-sidenreng-rappang,"Sidenreng Rappang",sulawesi-selatan
-enrekang,Enrekang,sulawesi-selatan
-belopa,Belopa,sulawesi-selatan
-soppeng,Soppeng,sulawesi-selatan
-maros,Maros,sulawesi-selatan
-rantepao,Rantepao,sulawesi-selatan
-bulukumba,Bulukumba,sulawesi-selatan
-jeneponto,Jeneponto,sulawesi-selatan
-masamba,Masamba,sulawesi-selatan
-takalar,Takalar,sulawesi-selatan
-pinrang,Pinrang,sulawesi-selatan
 barru,Barru,sulawesi-selatan
-luwu,Luwu,sulawesi-selatan
-kepulauan-pangkajehe,"Kepulauan Pangkajehe",sulawesi-selatan
+belopa,Belopa,sulawesi-selatan
 benteng,Benteng,sulawesi-selatan
-kab-buol,"Kab Buol",sulawesi-tengah
-kab-morowali,"Kab Morowali",sulawesi-tengah
-kab-donggala,"Kab Donggala",sulawesi-tengah
-sigi,Sigi,sulawesi-tengah
-kab-banggai,"Kab Banggai",sulawesi-tengah
-kab-tolitoli,"Kab Tolitoli",sulawesi-tengah
-kab-banggai-kepulauan,"Kab Banggai Kepulauan",sulawesi-tengah
-palu,Palu,sulawesi-tengah
-buol,Buol,sulawesi-tengah
-bungku,Bungku,sulawesi-tengah
-kab-kolaka,"Kab Kolaka",sulawesi-tengah
-tojo-unauna,"Tojo Una-una",sulawesi-tengah
-luwuk,Luwuk,sulawesi-tengah
+bulukumba,Bulukumba,sulawesi-selatan
+enrekang,Enrekang,sulawesi-selatan
+jeneponto,Jeneponto,sulawesi-selatan
+kab-barru,"Kab Barru",sulawesi-selatan
+kab-bone,"Kab Bone",sulawesi-selatan
+kab-enrekang,"Kab Enrekang",sulawesi-selatan
+kab-gowa,"Kab Gowa",sulawesi-selatan
+kab-jeneponto,"Kab Jeneponto",sulawesi-selatan
+kab-luwu-timur,"Kab Luwu Timur",sulawesi-selatan
+kab-luwu-utara,"Kab Luwu Utara",sulawesi-selatan
+kab-selayar,"Kab Selayar",sulawesi-selatan
+kab-sidenreng,"Kab Sidenreng",sulawesi-selatan
+kab-tana-toraja,"Kab Tana Toraja",sulawesi-selatan
+kepulauan-pangkajehe,"Kepulauan Pangkajehe",sulawesi-selatan
+luwu,Luwu,sulawesi-selatan
+makale,Makale,sulawesi-selatan
+makasar,Makasar,sulawesi-selatan
+makassar,Makassar,sulawesi-selatan
+maros,Maros,sulawesi-selatan
+masamba,Masamba,sulawesi-selatan
+palopo,Palopo,sulawesi-selatan
+pangkajene-dan-kepulauan,"Pangkajene Dan Kepulauan",sulawesi-selatan
+parepare,Pare-pare,sulawesi-selatan
+pinrang,Pinrang,sulawesi-selatan
+rantepao,Rantepao,sulawesi-selatan
+sengkang,Sengkang,sulawesi-selatan
+sidenreng,Sidenreng,sulawesi-selatan
+sidenreng-rappang,"Sidenreng Rappang",sulawesi-selatan
+sinjai,Sinjai,sulawesi-selatan
+soppeng,Soppeng,sulawesi-selatan
+sungguminasa,Sungguminasa,sulawesi-selatan
+takalar,Takalar,sulawesi-selatan
+toraja-utara,"Toraja Utara",sulawesi-selatan
+wajo,Wajo,sulawesi-selatan
+watampone,Watampone,sulawesi-selatan
+watansoppeng,Watansoppeng,sulawesi-selatan
 ampana-,"Ampana ",sulawesi-tengah
-tolitoli,Toli-toli,sulawesi-tengah
 banawa,Banawa,sulawesi-tengah
+bungku,Bungku,sulawesi-tengah
+buol,Buol,sulawesi-tengah
+kab-banggai,"Kab Banggai",sulawesi-tengah
+kab-banggai-kepulauan,"Kab Banggai Kepulauan",sulawesi-tengah
+kab-buol,"Kab Buol",sulawesi-tengah
+kab-donggala,"Kab Donggala",sulawesi-tengah
+kab-kolaka,"Kab Kolaka",sulawesi-tengah
+kab-morowali,"Kab Morowali",sulawesi-tengah
 kab-parigi-moutong,"Kab Parigi Moutong",sulawesi-tengah
-poso,Poso,sulawesi-tengah
-tolitoli,Tolitoli,sulawesi-tengah
+kab-tolitoli,"Kab Tolitoli",sulawesi-tengah
+luwuk,Luwuk,sulawesi-tengah
+palu,Palu,sulawesi-tengah
 parigi,Parigi,sulawesi-tengah
-kolaka,Kolaka,sulawesi-tenggara
-kab-buton,"Kab Buton",sulawesi-tenggara
-raha,Raha,sulawesi-tenggara
-unaaha,Unaaha,sulawesi-tenggara
-kab-wakatobi,"Kab Wakatobi",sulawesi-tenggara
-kolaka-utara,"Kolaka Utara",sulawesi-tenggara
-buton-utara,"Buton Utara",sulawesi-tenggara
+poso,Poso,sulawesi-tengah
+sigi,Sigi,sulawesi-tengah
+tojo-unauna,"Tojo Una-una",sulawesi-tengah
+tolitoli,Toli-toli,sulawesi-tengah
+tolitoli,Tolitoli,sulawesi-tengah
 andoolo,Andoolo,sulawesi-tenggara
-pasar-wajo,"Pasar Wajo",sulawesi-tenggara
-rumbia,Rumbia,sulawesi-tenggara
-kab-konawe,"Kab Konawe",sulawesi-tenggara
-kab-bombana,"Kab Bombana",sulawesi-tenggara
-konawe-selatan,"Konawe Selatan",sulawesi-tenggara
-wangiwangi,Wangi-wangi,sulawesi-tenggara
-lasusua,Lasusua,sulawesi-tenggara
-konawe-utara,"Konawe Utara",sulawesi-tenggara
-kab-muna,"Kab Muna",sulawesi-tenggara
 baubau,Bau-bau,sulawesi-tenggara
+buton-utara,"Buton Utara",sulawesi-tenggara
+kab-bombana,"Kab Bombana",sulawesi-tenggara
+kab-buton,"Kab Buton",sulawesi-tenggara
+kab-konawe,"Kab Konawe",sulawesi-tenggara
+kab-muna,"Kab Muna",sulawesi-tenggara
+kab-wakatobi,"Kab Wakatobi",sulawesi-tenggara
 kendari,Kendari,sulawesi-tenggara
-ratahan,Ratahan,sulawesi-utara
-tahuna,Tahuna,sulawesi-utara
-kab-dairi,"Kab Dairi",sulawesi-utara
-melonguane,Melonguane,sulawesi-utara
+kolaka,Kolaka,sulawesi-tenggara
+kolaka-utara,"Kolaka Utara",sulawesi-tenggara
+konawe-selatan,"Konawe Selatan",sulawesi-tenggara
+konawe-utara,"Konawe Utara",sulawesi-tenggara
+lasusua,Lasusua,sulawesi-tenggara
+pasar-wajo,"Pasar Wajo",sulawesi-tenggara
+raha,Raha,sulawesi-tenggara
+rumbia,Rumbia,sulawesi-tenggara
+unaaha,Unaaha,sulawesi-tenggara
+wangiwangi,Wangi-wangi,sulawesi-tenggara
+airmadidi,Airmadidi,sulawesi-utara
 amurang,Amurang,sulawesi-utara
+bitung,Bitung,sulawesi-utara
+bolaang-mongondow-selatan,"Bolaang Mongondow Selatan",sulawesi-utara
 bolaang-mongondow-timur,"Bolaang Mongondow Timur",sulawesi-utara
+bolaang-mongondow-utara,"Bolaang Mongondow Utara",sulawesi-utara
+boroko,Boroko,sulawesi-utara
+kab-bolaang-mongondow,"Kab Bolaang Mongondow",sulawesi-utara
+kab-dairi,"Kab Dairi",sulawesi-utara
+kab-kepulauan-talaud,"Kab Kepulauan Talaud",sulawesi-utara
+kab-langkat,"Kab Langkat",sulawesi-utara
+kab-minahasa,"Kab Minahasa",sulawesi-utara
 kab-minahasa-selatan,"Kab Minahasa Selatan",sulawesi-utara
-siau-tagulandang-biaro,"Siau Tagulandang Biaro",sulawesi-utara
-tomohon,Tomohon,sulawesi-utara
-manado,Manado,sulawesi-utara
+kab-minahasa-tenggara,"Kab Minahasa Tenggara",sulawesi-utara
+kab-minahasa-utara,"Kab Minahasa Utara",sulawesi-utara
 kepulauan-sangihe,"Kepulauan Sangihe",sulawesi-utara
 kotamobagu,Kotamobagu,sulawesi-utara
-bolaang-mongondow-utara,"Bolaang Mongondow Utara",sulawesi-utara
-kab-minahasa-tenggara,"Kab Minahasa Tenggara",sulawesi-utara
-bitung,Bitung,sulawesi-utara
-airmadidi,Airmadidi,sulawesi-utara
-rantau-prapat-,"Rantau Prapat ",sulawesi-utara
-boroko,Boroko,sulawesi-utara
-kab-langkat,"Kab Langkat",sulawesi-utara
-kab-minahasa-utara,"Kab Minahasa Utara",sulawesi-utara
-pangururan,Pangururan,sulawesi-utara
-kab-bolaang-mongondow,"Kab Bolaang Mongondow",sulawesi-utara
-tondano,Tondano,sulawesi-utara
+manado,Manado,sulawesi-utara
+melonguane,Melonguane,sulawesi-utara
 padang-sidempuan,"Padang Sidempuan",sulawesi-utara
-kab-kepulauan-talaud,"Kab Kepulauan Talaud",sulawesi-utara
-bolaang-mongondow-selatan,"Bolaang Mongondow Selatan",sulawesi-utara
-kab-minahasa,"Kab Minahasa",sulawesi-utara
-pulau-punjung,"Pulau Punjung",sumatera-barat
-sawah-lunto,"Sawah Lunto",sumatera-barat
-lubuk-basung,"Lubuk Basung",sumatera-barat
+pangururan,Pangururan,sulawesi-utara
+rantau-prapat-,"Rantau Prapat ",sulawesi-utara
+ratahan,Ratahan,sulawesi-utara
+siau-tagulandang-biaro,"Siau Tagulandang Biaro",sulawesi-utara
+tahuna,Tahuna,sulawesi-utara
+tomohon,Tomohon,sulawesi-utara
+tondano,Tondano,sulawesi-utara
 arosuka,Arosuka,sumatera-barat
-painan,Painan,sumatera-barat
-pasaman,Pasaman,sumatera-barat
+batusangkar,Batusangkar,sumatera-barat
+batusangkar,Batusangkar,sumatera-barat
+bukittinggi,Bukittinggi,sumatera-barat
+kab-dharmasraya,"Kab Dharmasraya",sumatera-barat
 kab-lima-puluh-kota,"Kab Lima Puluh Kota",sumatera-barat
+kab-padang-pariaman,"Kab Padang Pariaman",sumatera-barat
 kab-pesisir-selatan,"Kab Pesisir Selatan",sumatera-barat
+kab-sijunjung,"Kab Sijunjung",sumatera-barat
+kabagam,Kab.agam,sumatera-barat
+kepulauan-mentawai,"Kepulauan Mentawai",sumatera-barat
+lubuk-basung,"Lubuk Basung",sumatera-barat
+lubuk-sikaping,"Lubuk Sikaping",sumatera-barat
+padang,Padang,sumatera-barat
+padang-aro,"Padang Aro",sumatera-barat
+padang-panjang,"Padang Panjang",sumatera-barat
+painan,Painan,sumatera-barat
+pariaman,Pariaman,sumatera-barat
+pasaman,Pasaman,sumatera-barat
+pasaman-barat,"Pasaman Barat",sumatera-barat
 payakumbuh,Payakumbuh,sumatera-barat
 pulau-punjung,"Pulau Punjung",sumatera-barat
-batusangkar,Batusangkar,sumatera-barat
-kabagam,Kab.agam,sumatera-barat
-lubuk-sikaping,"Lubuk Sikaping",sumatera-barat
-solok,Solok,sumatera-barat
+pulau-punjung,"Pulau Punjung",sumatera-barat
 sarilamak,Sarilamak,sumatera-barat
-pasaman-barat,"Pasaman Barat",sumatera-barat
-kab-sijunjung,"Kab Sijunjung",sumatera-barat
-bukittinggi,Bukittinggi,sumatera-barat
+sawah-lunto,"Sawah Lunto",sumatera-barat
 simpang-empat,"Simpang Empat",sumatera-barat
-kab-dharmasraya,"Kab Dharmasraya",sumatera-barat
-x-koto-singkarak,"X Koto Singkarak",sumatera-barat
+solok,Solok,sumatera-barat
 solok-selatan,"Solok Selatan",sumatera-barat
-padang-panjang,"Padang Panjang",sumatera-barat
-padang-aro,"Padang Aro",sumatera-barat
-pariaman,Pariaman,sumatera-barat
-kab-padang-pariaman,"Kab Padang Pariaman",sumatera-barat
-kepulauan-mentawai,"Kepulauan Mentawai",sumatera-barat
-batusangkar,Batusangkar,sumatera-barat
 taliwang,Taliwang,sumatera-barat
 tanah-datar,"Tanah Datar",sumatera-barat
-padang,Padang,sumatera-barat
 tuapejat,Tuapejat,sumatera-barat
-sekayu,Sekayu,sumatera-selatan
-kab-ogan-komering,"Kab Ogan Komering",sumatera-selatan
+x-koto-singkarak,"X Koto Singkarak",sumatera-barat
 baturaja,Baturaja,sumatera-selatan
-kab-ogan-komering-ulu,"Kab Ogan Komering Ulu",sumatera-selatan
 indralaya,Indralaya,sumatera-selatan
-prabumulih,Prabumulih,sumatera-selatan
-kab-lahat,"Kab Lahat",sumatera-selatan
-muara-enim,"Muara Enim",sumatera-selatan
-pagar-alam,"Pagar Alam",sumatera-selatan
-kab-empat-lawang,"Kab Empat Lawang",sumatera-selatan
-ogan-komering-ulu-selatan,"Ogan Komering Ulu Selatan",sumatera-selatan
-kab-banyuasin,"Kab Banyuasin",sumatera-selatan
-kab-musi-banyuasin,"Kab Musi Banyuasin",sumatera-selatan
-kab-muara-enim,"Kab Muara Enim",sumatera-selatan
-lubuklinggau,Lubuklinggau,sumatera-selatan
-kayu-agung,"Kayu Agung",sumatera-selatan
-ogan-komering-ulu-timur,"Ogan Komering Ulu Timur",sumatera-selatan
-muara-beliti-baru,"Muara Beliti Baru",sumatera-selatan
-kab-musi-rawas,"Kab Musi Rawas",sumatera-selatan
-lahat,Lahat,sumatera-selatan
-kab-ogan-ilir,"Kab Ogan Ilir",sumatera-selatan
-pangkalan-balai,"Pangkalan Balai",sumatera-selatan
-ogan-komering-ilir,"Ogan Komering Ilir",sumatera-selatan
-muaradua,Muaradua,sumatera-selatan
-palembang,Palembang,sumatera-selatan
 kab-bantaeng,"Kab Bantaeng",sumatera-selatan
-kab-nias-selatan,"Kab Nias Selatan",sumatera-utara
-panyabungan,Panyabungan,sumatera-utara
-tanjung-balai,"Tanjung Balai",sumatera-utara
-padangsidimpuan,Padangsidimpuan,sumatera-utara
-dairi,Dairi,sumatera-utara
-kab-tapanuli-tengah,"Kab Tapanuli Tengah",sumatera-utara
-kisaran,Kisaran,sumatera-utara
-padang-lawas,"Padang Lawas",sumatera-utara
-labuhan-batu-selatan,"Labuhan Batu Selatan",sumatera-utara
-tebing-tinggi,"Tebing Tinggi",sumatera-utara
-nias-utara,"Nias Utara",sumatera-utara
-tarutung,Tarutung,sumatera-utara
-kab-karo,"Kab Karo",sumatera-utara
-sibuhuan,Sibuhuan,sumatera-utara
-kab-tapanuli-utara,"Kab Tapanuli Utara",sumatera-utara
-stabat,Stabat,sumatera-utara
-lubuk-pakam,"Lubuk Pakam",sumatera-utara
-kab-toba-samosir,"Kab Toba Samosir",sumatera-utara
-padang-lawas-utara,"Padang Lawas Utara",sumatera-utara
-kabanjahe,Kabanjahe,sumatera-utara
-labuhan-batu-utara,"Labuhan Batu Utara",sumatera-utara
-labuhan-batu,"Labuhan Batu",sumatera-utara
-teluk-dalam,"Teluk Dalam",sumatera-utara
-sipirok,Sipirok,sumatera-utara
-medan,Medan,sumatera-utara
-sibolga,Sibolga,sumatera-utara
-kab-mandailing-natal,"Kab Mandailing Natal",sumatera-utara
-pakpak-bharat,"Pakpak Bharat",sumatera-utara
-kab-deli-serdang,"Kab Deli Serdang",sumatera-utara
-pematang-siantar,"Pematang Siantar",sumatera-utara
-kab-humbang-hasundutan,"Kab Humbang Hasundutan",sumatera-utara
-kab-nias,"Kab Nias",sumatera-utara
-gunungsitoli,Gunungsitoli,sumatera-utara
-kota-binjai,"Kota Binjai",sumatera-utara
-langkat,Langkat,sumatera-utara
-gunung-tua,"Gunung Tua",sumatera-utara
+kab-banyuasin,"Kab Banyuasin",sumatera-selatan
+kab-empat-lawang,"Kab Empat Lawang",sumatera-selatan
+kab-lahat,"Kab Lahat",sumatera-selatan
+kab-muara-enim,"Kab Muara Enim",sumatera-selatan
+kab-musi-banyuasin,"Kab Musi Banyuasin",sumatera-selatan
+kab-musi-rawas,"Kab Musi Rawas",sumatera-selatan
+kab-ogan-ilir,"Kab Ogan Ilir",sumatera-selatan
+kab-ogan-komering,"Kab Ogan Komering",sumatera-selatan
+kab-ogan-komering-ulu,"Kab Ogan Komering Ulu",sumatera-selatan
+kayu-agung,"Kayu Agung",sumatera-selatan
+lahat,Lahat,sumatera-selatan
+lubuklinggau,Lubuklinggau,sumatera-selatan
+muara-beliti-baru,"Muara Beliti Baru",sumatera-selatan
+muara-enim,"Muara Enim",sumatera-selatan
+muaradua,Muaradua,sumatera-selatan
+ogan-komering-ilir,"Ogan Komering Ilir",sumatera-selatan
+ogan-komering-ulu-selatan,"Ogan Komering Ulu Selatan",sumatera-selatan
+ogan-komering-ulu-timur,"Ogan Komering Ulu Timur",sumatera-selatan
+pagar-alam,"Pagar Alam",sumatera-selatan
+palembang,Palembang,sumatera-selatan
+pangkalan-balai,"Pangkalan Balai",sumatera-selatan
+prabumulih,Prabumulih,sumatera-selatan
+sekayu,Sekayu,sumatera-selatan
 balige,Balige,sumatera-utara
-dolok-sanggul,"Dolok Sanggul",sumatera-utara
-kab-batu-bara,"Kab Batu Bara",sumatera-utara
-sidikalang,Sidikalang,sumatera-utara
 binjai,Binjai,sumatera-utara
-nias-barat,"Nias Barat",sumatera-utara
-sei-rampah,"Sei Rampah",sumatera-utara
-simalungun,Simalungun,sumatera-utara
-kab-serdang-bedagai,"Kab Serdang Bedagai",sumatera-utara
-tapanuli-selatan,"Tapanuli Selatan",sumatera-utara
-kabasahan,Kab.asahan,sumatera-utara
-kab-samosir,"Kab Samosir",sumatera-utara
+dairi,Dairi,sumatera-utara
+dolok-sanggul,"Dolok Sanggul",sumatera-utara
+gunung-tua,"Gunung Tua",sumatera-utara
+gunungsitoli,Gunungsitoli,sumatera-utara
+kab-batu-bara,"Kab Batu Bara",sumatera-utara
+kab-deli-serdang,"Kab Deli Serdang",sumatera-utara
+kab-humbang-hasundutan,"Kab Humbang Hasundutan",sumatera-utara
+kab-karo,"Kab Karo",sumatera-utara
 kab-labuhan-batu,"Kab Labuhan Batu",sumatera-utara
-sleman,Sleman,yogyakarta
-kab-gunung-kidul,"Kab Gunung Kidul",yogyakarta
+kab-mandailing-natal,"Kab Mandailing Natal",sumatera-utara
+kab-nias,"Kab Nias",sumatera-utara
+kab-nias-selatan,"Kab Nias Selatan",sumatera-utara
+kab-samosir,"Kab Samosir",sumatera-utara
+kab-serdang-bedagai,"Kab Serdang Bedagai",sumatera-utara
+kab-tapanuli-tengah,"Kab Tapanuli Tengah",sumatera-utara
+kab-tapanuli-utara,"Kab Tapanuli Utara",sumatera-utara
+kab-toba-samosir,"Kab Toba Samosir",sumatera-utara
+kabasahan,Kab.asahan,sumatera-utara
+kabanjahe,Kabanjahe,sumatera-utara
+kisaran,Kisaran,sumatera-utara
+kota-binjai,"Kota Binjai",sumatera-utara
+labuhan-batu,"Labuhan Batu",sumatera-utara
+labuhan-batu-selatan,"Labuhan Batu Selatan",sumatera-utara
+labuhan-batu-utara,"Labuhan Batu Utara",sumatera-utara
+langkat,Langkat,sumatera-utara
+lubuk-pakam,"Lubuk Pakam",sumatera-utara
+medan,Medan,sumatera-utara
+nias-barat,"Nias Barat",sumatera-utara
+nias-utara,"Nias Utara",sumatera-utara
+padang-lawas,"Padang Lawas",sumatera-utara
+padang-lawas-utara,"Padang Lawas Utara",sumatera-utara
+padangsidimpuan,Padangsidimpuan,sumatera-utara
+pakpak-bharat,"Pakpak Bharat",sumatera-utara
+panyabungan,Panyabungan,sumatera-utara
+pematang-siantar,"Pematang Siantar",sumatera-utara
+sei-rampah,"Sei Rampah",sumatera-utara
+sibolga,Sibolga,sumatera-utara
+sibuhuan,Sibuhuan,sumatera-utara
+sidikalang,Sidikalang,sumatera-utara
+simalungun,Simalungun,sumatera-utara
+sipirok,Sipirok,sumatera-utara
+stabat,Stabat,sumatera-utara
+tanjung-balai,"Tanjung Balai",sumatera-utara
+tapanuli-selatan,"Tapanuli Selatan",sumatera-utara
+tarutung,Tarutung,sumatera-utara
+tebing-tinggi,"Tebing Tinggi",sumatera-utara
+teluk-dalam,"Teluk Dalam",sumatera-utara
 bantul,Bantul,yogyakarta
-kab-sleman,"Kab Sleman",yogyakarta
-wonosari,Wonosari,yogyakarta
-wates,Wates,yogyakarta
 kab-bantul,"Kab Bantul",yogyakarta
+kab-gunung-kidul,"Kab Gunung Kidul",yogyakarta
 kab-kulon-progo,"Kab Kulon Progo",yogyakarta
+kab-sleman,"Kab Sleman",yogyakarta
+sleman,Sleman,yogyakarta
+wates,Wates,yogyakarta
+wonosari,Wonosari,yogyakarta
 yogyakarta,Yogyakarta,yogyakarta

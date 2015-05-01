@@ -1,5 +1,6 @@
 package com.andylibrian.pulau.core;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Kabupaten {
@@ -31,6 +32,7 @@ public class Kabupaten {
         return name;
     }
     
+    @JsonIgnore
     public String getIdProvinsi() {
         return idProvinsi;
     }

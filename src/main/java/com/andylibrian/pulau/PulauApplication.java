@@ -1,8 +1,9 @@
 package com.andylibrian.pulau;
 
 import com.andylibrian.pulau.health.TemplateHealthCheck;
-import com.andylibrian.pulau.resources.PulauResource;
+import com.andylibrian.pulau.resources.KabupatenResource;
 import com.andylibrian.pulau.resources.ProvinsiResource;
+import com.andylibrian.pulau.resources.PulauResource;
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
@@ -33,12 +34,14 @@ public class PulauApplication extends Application<PulauConfiguration> {
         );
 
         final ProvinsiResource propinsiResource = new ProvinsiResource();
+        final KabupatenResource kabupatenResource = new KabupatenResource();
 
         final TemplateHealthCheck healthCheck
                 = new TemplateHealthCheck(configuration.getTemplate());
         environment.healthChecks().register("template", healthCheck);
         environment.jersey().register(resource);
         environment.jersey().register(propinsiResource);
+        environment.jersey().register(kabupatenResource);
     }
 
 }
