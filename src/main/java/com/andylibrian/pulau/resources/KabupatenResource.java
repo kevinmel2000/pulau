@@ -2,6 +2,8 @@ package com.andylibrian.pulau.resources;
 
 import com.andylibrian.pulau.core.Kabupaten;
 import com.andylibrian.pulau.core.KabupatenRepository;
+import com.andylibrian.pulau.core.Kecamatan;
+import com.andylibrian.pulau.core.KecamatanRepository;
 import com.andylibrian.pulau.core.Provinsi;
 import com.andylibrian.pulau.core.ProvinsiRepository;
 import com.andylibrian.pulau.core.ResourceNotFoundException;
@@ -27,12 +29,12 @@ public class KabupatenResource {
     private final List<Kabupaten> kabupatenList;
     private final HashMap<String, Kabupaten> kabupatenMap;
 
-    // private final KecamatanRepository kecamatanRepo;
+    private final KecamatanRepository kecamatanRepo;
 
     public KabupatenResource() {
         final KabupatenRepository repo = new KabupatenRepository();
         
-        // kecamatanRepo = new KecamatanRepository();
+        kecamatanRepo = new KecamatanRepository();
 
         kabupatenList = repo.findAll();
 
@@ -77,10 +79,10 @@ public class KabupatenResource {
             throw new ResourceNotFoundException();
         }
 
-        // final List<Kabupaten> kabupatenList = kabupatenRepo.findByProvinsi(id);
+        final List<Kecamatan> kecamatanList = kecamatanRepo.findByKabupaten(id);
 
         final Map<String, Object> documentKabupaten = new LinkedHashMap<String, Object>();
-        // documentKabupaten.put("data", kabupatenList);
+        documentKabupaten.put("data", kecamatanList);
 
         return documentKabupaten;
     }
