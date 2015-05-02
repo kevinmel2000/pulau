@@ -2,6 +2,7 @@ package com.andylibrian.pulau;
 
 import com.andylibrian.pulau.health.TemplateHealthCheck;
 import com.andylibrian.pulau.resources.KabupatenResource;
+import com.andylibrian.pulau.resources.KecamatanResource;
 import com.andylibrian.pulau.resources.ProvinsiResource;
 import com.andylibrian.pulau.resources.PulauResource;
 import io.dropwizard.Application;
@@ -35,6 +36,7 @@ public class PulauApplication extends Application<PulauConfiguration> {
 
         final ProvinsiResource propinsiResource = new ProvinsiResource();
         final KabupatenResource kabupatenResource = new KabupatenResource();
+        final KecamatanResource kecamatanResource = new KecamatanResource();
 
         final TemplateHealthCheck healthCheck
                 = new TemplateHealthCheck(configuration.getTemplate());
@@ -42,6 +44,7 @@ public class PulauApplication extends Application<PulauConfiguration> {
         environment.jersey().register(resource);
         environment.jersey().register(propinsiResource);
         environment.jersey().register(kabupatenResource);
+        environment.jersey().register(kecamatanResource);
     }
 
 }
